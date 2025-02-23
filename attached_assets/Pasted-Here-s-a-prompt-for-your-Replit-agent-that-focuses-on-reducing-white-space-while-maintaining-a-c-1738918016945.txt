@@ -1,0 +1,76 @@
+Here’s a **prompt for your Replit agent** that focuses on reducing white space while maintaining a clean and professional look:
+
+---
+
+### **Prompt for Adjustments to Finalize the Humoni Waitlist Page**
+The current waitlist page is functional but needs improvements to balance visual elements and reduce excessive white space. Below are **clear instructions** on adjustments without changing too much of the design.
+
+---
+
+#### **1. Reduce Excessive White Space**
+✅ Adjust padding and margins across all sections to balance spacing:  
+   - Header section (reduce top and bottom padding)  
+   - Form section (tighten vertical space above and below the input field and button)  
+   - Footer (reduce top and bottom spacing)  
+
+✅ Implement **consistent spacing between sections**, aiming for:  
+   - 40-60px section padding (desktop)  
+   - 20-30px (mobile)  
+
+---
+
+#### **2. Introduce Subtle Color Variation (Background Enhancements)**
+To break up the white space while maintaining a clean aesthetic:  
+✅ Add subtle color blocks or background shades for each section. Suggestions include:  
+   - Use **off-white (#F9F9F9)** or **light gray (#EDEDED)** for alternating sections.  
+   - Add a **gradient** background for the hero section (e.g., linear gradient blending #FFFFFF and a soft tint of #F0F2F5).  
+   - Use **soft accent tones** for the CTA background (e.g., #E8F0FF or #F4F7FA).  
+
+Example gradient:  
+```css
+background: linear-gradient(180deg, #FFFFFF 0%, #F4F7FA 100%);
+```
+
+---
+
+#### **3. Strengthen the Hero Section**
+✅ Use **bold, large typography** for the hero text.  
+✅ Ensure the **main call-to-action (button)** is visually distinct. Suggestions include:  
+   - Button color: **#0070F3** (or a custom color aligned with Humoni's palette)  
+   - Rounded corners (8px-12px)  
+   - Hover animation (e.g., change to a darker shade or shadow effect)
+
+---
+
+#### **4. Add Visual Elements (Subtle Enhancements)**
+✅ Use simple illustrations or shapes in the background to break up empty areas:  
+   - SVG background shapes (e.g., circles or waves) with low opacity.  
+   - Lottie animations (if possible) to introduce **micro-interactions**, e.g.,:  
+     - Animated "Join Waitlist" icon or confirmation animation upon submission.  
+
+✅ Avoid large blocks of static white without design elements.  
+
+---
+
+#### **5. Ensure Responsive Design**
+✅ Test the page on various screen sizes:  
+   - Desktop (1366px and 1920px)  
+   - Tablet  
+   - Mobile (iPhone and Android resolutions)  
+
+✅ Adjust padding and margin values to maintain a clean, consistent look across all devices.  
+
+---
+
+### **Summary**
+We want to:
+1. Reduce excessive white space without overcrowding the design.
+2. Introduce subtle color variations to break up static white sections (e.g., alternating off-white and soft gray shades).
+3. Enhance visual appeal through subtle background gradients and micro-interactions.
+4. Optimize responsiveness and typography for a polished, investor-ready landing page.  
+
+Please avoid changing too much of the existing layout but focus on improving spacing, colors, and user engagement. Let me know if you have questions!  
+
+---
+
+This prompt should guide the Replit agent to make enhancements that maintain the design while elevating its overall look and feel. Let me know if you need additional details!
