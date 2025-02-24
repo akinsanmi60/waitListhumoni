@@ -66,7 +66,7 @@ export const SOCIAL_SHARE_POINTS = 50;
 export const MILESTONE_POINTS = 200;
 export const WAITLIST_POSITION_THRESHOLD = 150;
 
-// Milestone definitions and constants
+// Milestone definitions
 export const MILESTONES = {
   EARLY_BIRD: "early_bird",
   FIRST_REFERRAL: "first_referral",
